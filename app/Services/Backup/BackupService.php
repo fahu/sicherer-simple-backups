@@ -12,7 +12,7 @@ use ZipArchive;
 
 class BackupService
 {
-    private const TEMPORARY_BACKUP_BASE_DIRECTORY = "/tmp/cloud-storage-backup";
+    private const TEMPORARY_BACKUP_BASE_DIRECTORY = "/tmp/sicherer-simple-backups";
 
     private string $temporaryBackupDirectory;
 
