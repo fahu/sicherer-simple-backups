@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="Sicherer - Simple Website Backups" height="100" src="./sicherer-logo.png" />
+    <img title="Sicherer - Simple Website Backups" height="100" src="./sicherer-logo-transparent.png" />
 </p>
 
 <h4>Sicherer - Simple Website Backups</h4>
