@@ -10,6 +10,11 @@ Sicherer is a CLI tool that lets you backup your website (files & MySQL database
 
 ------
 
+## Usage
+```cli
+sudo ./sicherer backup:execute your-backup-config.config.ini
+```
+
 ## License
 
 Sicherer is an open-source software licensed under the MIT license.
