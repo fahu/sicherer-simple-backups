@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^8.1",
         "ifsnop/mysqldump-php": "^2.9",
         "laravel-zero/framework": "^8.4",
         "ext-zip": "*",
